@@ -11,6 +11,7 @@ public class TotalCountOfGivenDigit {
 		count++;
 	}
 	System.out.println("print total count of given digit: "+count);
+	System.out.println("Logout successful");
 
   }
 	
